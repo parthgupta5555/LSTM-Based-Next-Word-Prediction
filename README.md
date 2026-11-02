@@ -81,8 +81,8 @@ Python 3.11 is a suitable choice for running the Streamlit application.
 ### 1. Clone the repository
 
 ``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone <https://github.com/parthgupta5555/LSTM-Based-Next-Word-Prediction.git>
+cd <LSTM-Based-Next-Word-Prediction>
 ```
 
 ### 2. Create a virtual environment (Windows)
@@ -166,5 +166,5 @@ to retrain the model every time it starts.
 
 ## Author
 
-**\[Parth Gupta\]**
+**\Parth Gupta\**
 
