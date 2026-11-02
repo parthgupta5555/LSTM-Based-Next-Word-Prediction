@@ -4,6 +4,13 @@ An NLP project that uses a Long Short-Term Memory (LSTM) neural network
 to predict the next word in a text sequence. The model is trained on a
 quote dataset and made available through a Streamlit web application.
 
+## Live Demo
+
+Try the deployed application here:
+
+**[LSTM-Based Next Word
+Prediction](https://lstm-based-next-word-prediction-zxtmunu7amrlkaljuk44qe.streamlit.app/)**
+
 ## Project Overview
 
 The application takes a text prompt and predicts the next word using a
@@ -161,4 +168,3 @@ to retrain the model every time it starts.
 
 **\[Parth Gupta\]**
 
-GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_URL)
