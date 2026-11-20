@@ -216,17 +216,12 @@ It does not require or load the LSTM model assets.
 
 ## Saved LSTM Model Files
 
-  -----------------------------------------------------------------------
-  File                                Purpose
-  ----------------------------------- -----------------------------------
-  `lstm_model.h5`                     Trained LSTM model
+ | File | Purpose |
+|---|---|
+| `lstm_model.h5` | Trained LSTM model |
+| `tokenizer.pkl` | Fitted tokenizer containing the word-to-index mapping |
+| `max_len.pkl` | Sequence length used to prepare model inputs |
 
-  `tokenizer.pkl`                     Fitted tokenizer containing the
-                                      word-to-index mapping
-
-  `max_len.pkl`                       Sequence length used to prepare
-                                      model inputs
-  -----------------------------------------------------------------------
 
 ## Limitations
 
