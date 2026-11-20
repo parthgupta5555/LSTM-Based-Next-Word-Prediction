@@ -50,11 +50,6 @@ adding each prediction to the input and predicting again.
 └── README.md
 ```
 
-> Windows may hide file extensions in File Explorer. The names above
-> assume `app` is `app.py`, `LSTM_implementation` is
-> `LSTM_implementation.ipynb`, `qoute_dataset` is `qoute_dataset.csv`,
-> and `requirements` is `requirements.txt`. Keep the actual filenames
-> consistent with the paths used in the code.
 
 ## How It Works
 
@@ -166,5 +161,5 @@ to retrain the model every time it starts.
 
 ## Author
 
-**\Parth Gupta\**
+**Parth Gupta**
 
