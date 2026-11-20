@@ -86,8 +86,7 @@ and groups the GPT-2 experiment in its own folder.
 ├── tokenizer.pkl                       # Fitted Keras tokenizer
 ├── max_len.pkl                         # Saved input sequence length
 ├── qoute_dataset.csv                   # Quote dataset used for LSTM training
-├── GPT2/
-│   └── GPT2_Next_Token_Prediction.ipynb # Pretrained GPT-2 inference experiment
+├── GPT2_Next_Token_Prediction.ipynb    # Pretrained GPT-2 inference experiment
 ├── requirements.txt                    # Dependencies for the Streamlit/LSTM app
 └── README.md
 ```
@@ -143,8 +142,8 @@ Install the dependencies in a virtual environment.
 ### 1. Clone the repository
 
 ``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone <https://github.com/parthgupta5555/LSTM-Based-Next-Word-Prediction>
+cd <LSTM-Based-Next-Word-Prediction>
 ```
 
 Replace the placeholders with your actual GitHub repository URL and
